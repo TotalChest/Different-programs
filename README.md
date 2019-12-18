@@ -1,5 +1,5 @@
 # Small-programs
-Small programs in different programming languages
+Small programs in different programming languages (C, C++, Python)
 ## Programs:  
 - **Mystr** - класс строка для C++ с полным набором методов
 - **Permutations** - вывод всевозможных перестановок символов в строке
